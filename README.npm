@@ -1,4 +1,0 @@
-git clone https://github.com/johnnesky/beepbox.git
-cd beepbox
-npm install
-npm run build
